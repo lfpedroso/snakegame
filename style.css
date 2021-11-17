@@ -1,0 +1,17 @@
+body {
+    height: 96vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+h1 {
+    color: chartreuse;
+}
+
+h1:hover {
+    color: green;
+}
